@@ -1,2 +1,0 @@
-# kodi
-Test sports channels
