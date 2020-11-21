@@ -3,6 +3,9 @@
 #EXTINF:-1 , Maharbawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
+#EXTINF:-1 ,BUDDHA
+http://ip2121.com:8081/1394/mtv/chunks.m3u8
+
 #EXTINF:-1 , Mahar
 https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDg6NTI6NDAgQU0maGFzaF92YWx1ZT15SDdYYW1JWldRb05SVVM3a1l6ZERnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
 
@@ -14,6 +17,18 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 
 #EXTINF:-1 , Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 , Fortune TV
+http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
+
+#EXTINF:-1 , Mizzima 
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream.m3u8
+
+#EXTINF:-1 ,MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:-1 ,DVB
+https://stream-01.sg1.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgiow71YIQ9X34_F4H537kE)/dm/3/x7x7str/s/live-0.m3u8
 
 #EXTINF:-1 , MVM
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8
@@ -44,3 +59,6 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 
 #EXTINF:-1 , MWD Shopping
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1 , MVM
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
